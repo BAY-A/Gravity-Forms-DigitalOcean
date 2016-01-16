@@ -1,0 +1,8 @@
+#tab_gravityforms-digitalocean h3{
+	display:  inline;
+}
+#tab_gravityforms-digitalocean h3 span img{
+	float: left;
+	width: 60px;
+	padding: 0.3em 0.5em 0em 0em;
+}
